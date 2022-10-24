@@ -1,9 +1,9 @@
 lockfileVersion: 5.4
 
 specifiers:
-  next: latest
-  react: 18.2.0
-  react-dom: 18.2.0
+  next: link:..\next.js\packages\next
+  react: link:..\next.js\node_modules\react
+  react-dom: link:..\next.js\node_modules\react-dom
 
 dependencies:
   next: 12.3.1_biqbaboplfbrettd7655fr4n2y
